@@ -1,16 +1,8 @@
-# latihan_slicing
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. home page
+   ![Screenshot 2025-03-11 115135](https://github.com/user-attachments/assets/ec3e9fd1-4cf9-4496-aea5-695cd0079360)
+2. receips
+   ![Screenshot 2025-03-11 115052](https://github.com/user-attachments/assets/7c5ce5e0-e4f1-4fd5-ae8e-db29e15325b8)
+3. favorites
+   ![Screenshot 2025-03-11 115102](https://github.com/user-attachments/assets/83e312a9-2177-4961-b99d-fb220ba788e7)
+4. profil
+   ![Screenshot 2025-03-11 115110](https://github.com/user-attachments/assets/91a3cd1f-9247-40a7-a91b-d65e77597ad1)
